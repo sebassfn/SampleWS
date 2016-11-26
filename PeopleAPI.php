@@ -1,5 +1,5 @@
 <?php
-include './PeopleDB.php'; //Incluyo el archivo 'PeopleDB.php'
+require_once './PeopleDB.php'; //Incluyo el archivo 'PeopleDB.php'
 
 /*
  * To change this license header, choose License Headers in Project Properties.
