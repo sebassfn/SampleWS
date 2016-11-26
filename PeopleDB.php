@@ -1,15 +1,13 @@
 <?php
-/** 
- * @web http://www.jc-mouse.net/
- * @author jc mouse
- */
+
 class PeopleDB {
     
-    protected $mysqli;
+    protected $mysqli;   
+    
     const LOCALHOST = '127.0.0.1';
-    const USER = 'root';
-    const PASSWORD = '';
-    const DATABASE = 'dbTest';
+    const USER = 'myuser';
+    const PASSWORD = 'mypassword';
+    const DATABASE = 'mydatabase';
     
     /**
      * Constructor de clase
