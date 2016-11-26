@@ -4,7 +4,7 @@ class PeopleDB {
     
     protected $mysqli;   
     
-    const LOCALHOST = '127.0.0.1';
+    const LOCALHOST = '172.30.32.95';
     const USER = 'myuser';
     const PASSWORD = 'mypassword';
     const DATABASE = 'mydatabase';
