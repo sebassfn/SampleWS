@@ -5,9 +5,9 @@ class PeopleDB {
     protected $mysqli;   
     
     const LOCALHOST = 'OPENSHIFT_MYSQL_DB_HOST';
-    const USER = 'adminErH4Hg6';
-    const PASSWORD = 'BwYduTPF33fx';
-    const DATABASE = 'listaalumnnos';
+    const USER = 'adminiB1tdCP';
+    const PASSWORD = 'JzX6VPX4nfgr';
+    const DATABASE = 'listaalumnos';
     
     /**
      * Constructor de clase
