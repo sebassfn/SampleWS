@@ -2,6 +2,12 @@
     require_once "PeopleAPI.php";    
     $peopleAPI = new PeopleAPI();
     $peopleAPI->API();
-
-    echo 'Hola';
 ?>
+<!DOCTYPE html>
+<html>
+    
+    <body>
+        <?php echo 'Hola'; ?>
+    </body>
+</html>
+        
