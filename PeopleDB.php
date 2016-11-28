@@ -4,7 +4,7 @@ class PeopleDB {
     
     protected $mysqli;   
     
-    const LOCALHOST = 'http://listaalumnnos-caras.rhcloud.com';
+    const LOCALHOST = 'OPENSHIFT_MYSQL_DB_HOST';
     const USER = 'adminErH4Hg6';
     const PASSWORD = 'BwYduTPF33fx';
     const DATABASE = 'listaalumnnos';
