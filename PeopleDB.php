@@ -4,10 +4,10 @@ class PeopleDB {
     
     protected $mysqli;   
     
-    const LOCALHOST = '172.30.32.95';
-    const USER = 'myuser';
-    const PASSWORD = 'mypassword';
-    const DATABASE = 'mydatabase';
+    const LOCALHOST = 'http://listaalumnnos-caras.rhcloud.com';
+    const USER = 'adminErH4Hg6';
+    const PASSWORD = 'BwYduTPF33fx';
+    const DATABASE = 'listaalumnnos';
     
     /**
      * Constructor de clase
